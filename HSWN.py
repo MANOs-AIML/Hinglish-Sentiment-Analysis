@@ -1,7 +1,3 @@
-''' 
-Created on Mon Nov 3 2025
-@author: MANO
- '''
 from difflib import SequenceMatcher
 
 # Module to interact with the Hindi Senti Word Net
