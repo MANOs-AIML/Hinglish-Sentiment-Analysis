@@ -58,10 +58,9 @@ This will ouput the file Output.csv which consists of the scores of the tweets
 + -1 for negative 
 + 0 for neutral 
 
-## Authors: 
-
-MANO S
-AI/ML Student
+## Author
+MANO S  
+AI & ML Student
 
 ## Contributing
 
