@@ -1,7 +1,3 @@
-'''
-Created on Mon Nov 3 2025
-@author: MANO
-'''
 import numpy as np 
 import xlsxwriter
 import sys
