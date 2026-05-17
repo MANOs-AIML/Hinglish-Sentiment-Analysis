@@ -1,7 +1,3 @@
-'''
-Created on Thu Nov 2 2017
-@author: vipulkhatana
-'''
 def getMF(l):
 	y = []
 	for s in l.splitlines():
