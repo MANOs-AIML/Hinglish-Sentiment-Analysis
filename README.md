@@ -59,9 +59,9 @@ This will ouput the file Output.csv which consists of the scores of the tweets
 + 0 for neutral 
 
 ## Authors: 
-* [Vipul Khatana](https://github.com/vipul-khatana)
 
-Undergraduate Thesis under [**Dr. Brejesh Lall**](http://ee.iitd.ernet.in/people/brijeshlall.html)
+MANO S
+AI/ML Student
 
 ## Contributing
 
